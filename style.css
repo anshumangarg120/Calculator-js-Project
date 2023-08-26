@@ -57,13 +57,19 @@ button:hover {
 }
 
 .clear {
-    grid-column: span 2;
+    grid-column: span 1;
     background-color: #ff6347;
     color: #fff;
 }
 
-.calculate {
+.percent{
     grid-column: span 2;
+    background-color: #06b6fc;
+    color: #fff;
+}
+
+.calculate {
+    grid-column: span 1;
     background-color: #008000;
     color: #fff;
 }
